@@ -1,4 +1,4 @@
-while true:
+while True:
 	Liczba1 = input("Podaj pierwszą liczbę")
 
 	if not Liczba1.isnumeric():
